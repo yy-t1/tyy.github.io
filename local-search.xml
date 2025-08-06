@@ -4,11 +4,11 @@
   
   
   <entry>
-    <title>测试文章</title>
-    <link href="/tyy.github.io/2025/08/05/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
-    <url>/tyy.github.io/2025/08/05/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
+    <title>blog开头代码</title>
+    <link href="/tyy.github.io/2025/08/06/text/"/>
+    <url>/tyy.github.io/2025/08/06/text/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<h2 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h2><p>这里是文章的正文内容。你可以使用Markdown语法来格式化文本，例如添加标题、段落、列表、图片等。</p><p>例如，添加一个无序列表：</p><ul><li>列表项1</li><li>列表项2</li><li>列表项3</li></ul><p>或者添加一个链接：<a href="https://www.example.com/">示例链接</a></p><p>代码为：</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><code class="hljs yaml"><span class="hljs-meta">---</span><br><span class="hljs-attr">title:</span> <span class="hljs-string">测试文章</span>  <span class="hljs-comment"># 文章标题</span><br><span class="hljs-attr">date:</span> <span class="hljs-number">2025-08-05 16:17:07</span>  <span class="hljs-comment"># 发布日期和时间</span><br><span class="hljs-attr">author:</span> <span class="hljs-string">tyy</span>  <span class="hljs-comment"># 作者名称</span><br><span class="hljs-meta">---</span><br><span class="hljs-meta"></span><br><span class="hljs-comment">## Hello World</span><br><span class="hljs-string">这里是文章的正文内容。你可以使用Markdown语法来格式化文本，例如添加标题、段落、列表、图片等。</span><br><br><span class="hljs-string">例如，添加一个无序列表：</span><br><span class="hljs-bullet">-</span> <span class="hljs-string">列表项1</span><br><span class="hljs-bullet">-</span> <span class="hljs-string">列表项2</span><br><span class="hljs-bullet">-</span> <span class="hljs-string">列表项3</span><br><br><span class="hljs-string">或者添加一个链接：[示例链接](https://www.example.com)</span><br></code></pre></td></tr></table></figure>]]></content>
     
     
     
